@@ -1,0 +1,15 @@
+This file contains the personal and engineering requirements for the cooling tub project.
+
+Personal
+- Volume = 100 gal
+- Energy Usage < 100V
+- Temperature = 45-55 F
+- Continuous
+- Noise < 50 dB
+- Cooldown < 6hrs
+
+Engineering
+- Maximum Cooling Load = need calculation
+- Maximum Pump Flow = need calculation
+- Maximum Pressure Drop = need calculation
+- Heat Leakage = need calculation
