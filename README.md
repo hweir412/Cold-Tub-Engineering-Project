@@ -37,9 +37,13 @@ Current Status
 
 Requirements Complete (7/17)
 
+System Architecture (In progress 7/17)
+
 Cooling Calculations (In progress 7/17)
 
-CAD
+Component Selection (In progress 7/17)
+
+CAD (In progress 7/17)
 
 Build
 
