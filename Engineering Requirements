@@ -1,10 +1,12 @@
 This file contains the personal and engineering requirements for the cooling tub project.
 
+** Update: after cost calculations the most effecient and cost effective option is using a batch cooling process
+
 Personal
 - Volume = 100 gal
 - Energy Usage < 100V
 - Temperature = 45-55 F
-- Continuous
+- Continuous (UPDATE now batch cooling)
 - Noise < 50 dB
 - Cooldown < 6hrs
 
