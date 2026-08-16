@@ -7,7 +7,7 @@ This project includes:
 - Cooling load analysis
 - CAD design
 - Pump sizing
-- Heat exchanger selection
+- Heat exchanger selection (final design no 
 - Testing
 - Cost Analysis
 
@@ -16,7 +16,7 @@ Objectives
 - Maintain Water between 45 and 55 F
 - Cool 100 gallons from room temperature in under 6 hours
 - Operate from househould outlet (assume 120V)
-- Contintous Operation
+- Continuous Operation (UPDATE 8/1 Batch Operation)
 - Modular Design
 
 
@@ -39,13 +39,13 @@ Requirements Complete (7/17)
 
 System Architecture (In progress 7/17)
 
-Cooling Calculations (In progress 7/17)
+Cooling Calculations (Complete 7/23)
 
-Component Selection (In progress 7/17)
+Component Selection (Complete 8/3)
 
 CAD (In progress 7/17)
 
-Build
+Build (In Progress 8/16)
 
 Testing
 
