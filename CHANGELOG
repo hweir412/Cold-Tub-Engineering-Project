@@ -16,3 +16,21 @@ ADDED
 
 07-22-2026
 - python calculations are pushed to github
+
+07-24-2026
+
+ADDED
+- Component Selection Spreadsheet is created
+- Cold tub and insulation selection is compared
+
+08-03-2026
+
+ADDED
+- Cold tub selected
+- Cooling load calculations done
+- Chiller is chosen (Ice) for batch process
+
+08/16/2026
+
+ADDED
+- Progam to calculate how much ice needed based on target temperature and size of person
